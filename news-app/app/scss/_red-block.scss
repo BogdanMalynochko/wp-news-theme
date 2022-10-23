@@ -1,0 +1,27 @@
+.red-block {
+    .container {
+        font-family: 'Poppins';
+
+        .wrapper {
+            background-color: #C31815;
+            padding: 20px 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 50px;
+
+            a {
+                background-color: white;
+                color: #C31815;
+                text-decoration: none;
+                padding: 15px;
+            }
+
+            p {
+                margin: 0;
+                color: white;
+                font-size: 20px;
+            }
+        }
+    }
+}

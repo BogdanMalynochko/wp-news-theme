@@ -1,0 +1,14 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "test",
+			"path": "OptimizedHTML-4",
+			"group": "test",
+			"problemMatcher": [],
+			"label": "npm: test - OptimizedHTML-4",
+			"detail": "echo \"Error: no test specified\" && exit 1"
+		}
+	]
+}

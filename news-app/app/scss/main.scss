@@ -1,0 +1,14 @@
+@import "vars";
+@import "fonts";
+@import "libs";
+@import "banner";
+@import "red-block";
+@import "news";
+@import "news-template";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400,0,500;0,600;0,700;1,300&display=swap');
+
+body {
+    background: #E5E5E5;
+}
+
+@import "media"; // Always at the end
